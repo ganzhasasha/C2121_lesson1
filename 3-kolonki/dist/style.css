@@ -1,0 +1,18 @@
+.container {
+  text-align: center;
+  background-color: cyan;
+  overflow: hidden;
+}
+.item {
+  float: left;
+  width: 30%;
+  padding: 1% 1% 0;
+  border: 2px solid orange;
+  box-sizing: border-box;
+}
+.item img {
+  width: 100%;
+}
+.centered {
+  margin: 0 5%;
+}

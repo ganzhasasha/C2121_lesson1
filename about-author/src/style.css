@@ -1,0 +1,58 @@
+.footer-columns
+{
+  display: flex;
+}
+.footer.column
+{
+  flex: 50%;
+  margin: 20px;
+}
+header, footer
+{
+  background-color: #11A1DA;
+  padding: 10px
+}
+main
+{
+  padding: 10px;
+  background-color: #779376;
+}
+.post
+{
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  display: flex;
+}
+.post img
+{
+  margin: 20px;
+  width: 150px;
+}
+.post-info
+{
+  color:darkgray;
+}
+.comment
+{
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.author
+{
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.date
+{
+  color:silver;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+#sub-comment
+{
+  margin-left: 40px;
+}
